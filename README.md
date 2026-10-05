@@ -353,8 +353,6 @@ ProcessPoolExecutor (repli série si échec), barre de progression texte.
 
 ---
 ---
-FIN DE LA PARTIE 1/4 / END OF PART 1/4
-Tapez « continue » (ou « partie 2 ») pour recevoir la PARTIE 2/4 :
 modules avancés M17–M25, couche données, architecture logicielle, audit.
 # ===========================================================================
 # PARTIE 2/4
@@ -606,8 +604,7 @@ absente), repli donnees_cellules_88.py si YAML absent.
 
 ---
 ---
-FIN DE LA PARTIE 2/4 / END OF PART 2/4
-Tapez « continue » (ou « partie 3 ») pour recevoir la PARTIE 3/4 :
+
 tests & validation (T1–T5, cas limites, solutions analytiques),
 reproductibilité, spécifications GUI DesignArena, API REST FastAPI.
 # ===========================================================================
@@ -920,8 +917,7 @@ class SimulationResult(BaseModel):
 
 ---
 ---
-FIN DE LA PARTIE 3/4 / END OF PART 3/4
-Tapez « continue » (ou « partie 4 ») pour recevoir la PARTIE 4/4 (FINALE) :
+
 Déploiement (Docker, CI/CD), Standards de publication, Roadmap v2-v4,
 Références bibliographiques complètes, Glossaire FR/EN, Annexes.
 # ===========================================================================
